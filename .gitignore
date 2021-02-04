@@ -9,3 +9,5 @@ npm-debug.log*
 *.sublime-workspace
 
 examples/clid.json
+
+.idea

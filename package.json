@@ -5,16 +5,16 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nicholastay/node-twitch-get-stream.git"
+    "url": "git+https://github.com/TinyPoro/node-twitch-get-stream.git"
   },
-  "author": "Nicholas Tay <nexerq@gmail.com> (http://nicholastay.github.io)",
+  "author": "tuannp <tuannp@topica.edu.vn>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nicholastay/node-twitch-get-stream/issues"
+    "url": "https://github.com/TinyPoro/node-twitch-get-stream/issues"
   },
-  "homepage": "https://github.com/nicholastay/node-twitch-get-stream#readme",
+  "homepage": "https://github.com/TinyPoro/node-twitch-get-stream#readme",
   "dependencies": {
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "playlist-parser": "0.0.12"
   },
   "keywords": [
